@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maya-KP", "Maya-KP\Maya-KP.csproj", "{B4E5A3F3-DC4B-447E-B261-4D7C664008AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4E5A3F3-DC4B-447E-B261-4D7C664008AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E5A3F3-DC4B-447E-B261-4D7C664008AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E5A3F3-DC4B-447E-B261-4D7C664008AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E5A3F3-DC4B-447E-B261-4D7C664008AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85D28B78-97D1-48F2-9B77-4AD1550EC15A}
+	EndGlobalSection
+EndGlobal
